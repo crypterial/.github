@@ -8,6 +8,6 @@
 
 We build cryptographic infrastructure meant to outlast the systems it protects, and we release it as open source. What we build goes back to the projects and standards it depends on, and every design decision is recorded with the code, so the work can be checked rather than taken on trust.
 
-Our first work is the post-quantum transition: [crypto-pq](https://github.com/crypterial/crypto-pq), one library with one contract across languages, starting with a Rust reference implementation of the NIST standards.
+Our first work is the post-quantum transition: [crypto-pq](https://github.com/crypterial/crypto-pq), post-quantum cryptography written from scratch in Rust, Python, TypeScript, Go and Zig against one specification, with no external dependencies. It is in development.
 
 [crypterial.com](https://crypterial.com) · [Security reports](https://github.com/crypterial/crypto-pq/security/advisories/new)
