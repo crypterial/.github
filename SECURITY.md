@@ -8,4 +8,5 @@ Report vulnerabilities in any Crypterial Labs project privately, never in a publ
   if the repository has no security tab.
 - The website: see [crypterial.com/.well-known/security.txt](https://crypterial.com/.well-known/security.txt).
 
-You will get an acknowledgement, a fix, and credit in the advisory unless you ask otherwise.
+We will acknowledge the report, work with you on a fix, and credit you in the advisory unless you
+ask otherwise.
